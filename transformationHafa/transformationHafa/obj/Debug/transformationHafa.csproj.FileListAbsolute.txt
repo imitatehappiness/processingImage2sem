@@ -1,0 +1,10 @@
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\bin\Debug\transformationHafa.exe.config
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\bin\Debug\transformationHafa.exe
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\bin\Debug\transformationHafa.pdb
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.csprojAssemblyReference.cache
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.Form1.resources
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.Properties.Resources.resources
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.csproj.GenerateResource.cache
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.exe
+D:\DOCUMENTS\programm\study\processingImage2sem\transformationHafa\transformationHafa\obj\Debug\transformationHafa.pdb

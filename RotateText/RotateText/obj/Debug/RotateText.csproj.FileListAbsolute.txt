@@ -1,0 +1,10 @@
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\bin\Debug\RotateText.exe.config
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\bin\Debug\RotateText.exe
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\bin\Debug\RotateText.pdb
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.csprojAssemblyReference.cache
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.Form1.resources
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.Properties.Resources.resources
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.csproj.GenerateResource.cache
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.exe
+D:\DOCUMENTS\programm\study\processingImage2sem\RotateText\RotateText\obj\Debug\RotateText.pdb
