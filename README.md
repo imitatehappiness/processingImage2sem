@@ -14,11 +14,13 @@
 + Quantization (count levels)
 + Pseudo coloring (colors) 
 - Solarization
+
 ======================= 2 ======================= ScaleRotate
 + Scale Usual
 + Scale Interpolation
 + Rotate
 + Histogram
+
 ======================= 3 ======================= Filter
 + LowFilter (3x3)
 + HightFilter (3x3)
@@ -31,8 +33,10 @@
 + Previt (3X3 5X5 7X7 9X9) 
 + Kirsh (3X3 5X5 7X7 9X9) 
 + Embossing (Тиснение)
+
 ======================= 4 ======================= RotateText
 + RotateTextPage
+
 ======================= 5 ======================= transformationHafa
 + Метод Хафа для поиска прямой на изображении (хоть одна должна быть)
 + Метод Хафа для поиска окружности на изображении с заданным R
